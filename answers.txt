@@ -5,3 +5,9 @@
     Cons:
     - Requirements are always changing
     - Not suitable for small teams
+
+2. Explain the roles and responsibilities of the Scrum Master vs the Product Owner.
+    Scrum Master: All scrum related tasks - JIRA tooling, facilitating sprints and meetings, standups.
+    Product Owner: Sets direction for the team, handles release management and stakeholder management.
+
+
