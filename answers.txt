@@ -25,3 +25,9 @@
         - Occurs at the end of the sprint
         - Discuss work complete and move incomplete work to backlog
         - Close sprint
+
+4. Differentiate between Epic, Story, Bug, and Task issue types in JIRA.
+    Epic: Captures a large body of work that can be broken down into smaller stories
+    Story: A software system requirement that is expressed in a few short sentences
+    Bug: An issue with one of the stories that needs to be fixed
+    Task: A smaller unit of work that goes within a story
