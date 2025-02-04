@@ -11,3 +11,17 @@
     Product Owner: Sets direction for the team, handles release management and stakeholder management.
 
 
+3. What are the three types of meetings that happen during a sprint cycle?
+    1. Sprint Planning meeting
+        - Determine what to complete in the upcoming Sprint
+        - Move stories in sprint scope from backlog to current sprint
+        - Determine story points and assign stories to team
+
+    2. Daily Scrum/Standup meeting
+        - Short meeting that happens every day of the Sprint
+        - Team members discuss work completed, work plan for the day, and any blockers
+
+    3. Sprint Retrospective meeting
+        - Occurs at the end of the sprint
+        - Discuss work complete and move incomplete work to backlog
+        - Close sprint
